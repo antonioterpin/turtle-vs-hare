@@ -37,8 +37,6 @@ Run the app:
 java -classpath out RunApp
 ```
 
-Execute RunApp to start the simulation.
-
 ### Usage
 After starting the application, use the following buttons on the interface:
 
