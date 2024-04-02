@@ -4,7 +4,7 @@ This project is a fun and educational simulation of the classic hare and turtle 
 
 I worked on this in high school, while learning about Java (2016).
 
-TODO video
+![Turle vs Hare preview](media/turtle-vs-hare.gif)
 
 ## Features
 | Feature              | Description                                                                                                   |
