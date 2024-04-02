@@ -51,15 +51,6 @@ After starting the application, use the following buttons on the interface:
 | Stop    | Completely halt the simulation.                 |
 | Exit    | Close the application.                          |
 
-
-
-Start: Begin the race simulation.
-- Pause: Pause the race at its current state.
-Resume: Continue the race from where it was paused.
-Restart: Reset the simulation to start anew.
-Stop: Completely halt the simulation.
-Exit: Close the application.
-
 ## Limitations
 1. The simulation uses random moves, so each race is unpredictable in a somewhat not-smooth way. 
 2. Originally, this was built as an applet. Yup, it was that much time ago.
